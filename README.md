@@ -1,47 +1,43 @@
-# login-page-html-css-js
-Responsive login page built with HTML, CSS &amp; JavaScript featuring form validation, dark mode, password visibility toggle, and localStorage.
-# 🔐 Login Page – HTML, CSS & JavaScript
+Login Page – HTML, CSS & JavaScript
+A responsive and interactive login page built using HTML5, CSS3, and JavaScript. This project focuses on creating a clean user interface while adding basic functionality and form validation.
 
-A responsive and interactive Login Page built using **HTML5, CSS3, and JavaScript**.
+Features:
+Email validation
+Password validation
+Show and hide password functionality
+Dark mode toggle
+Saves the selected theme using LocalStorage
+Custom validation error messages
+Responsive design for different screen sizes
+Hover, focus, and shake animations
 
-## ✨ Features
+Technologies Used:
+HTML5
+CSS3
+JavaScript
+LocalStorage
 
-* 📧 Email validation
-* 🔑 Password validation
-* 👁️ Show/Hide password
-* 🌙 Dark mode toggle
-* 💾 Saves theme preference using LocalStorage
-* ⚠️ Custom validation error messages
-* 📱 Responsive design
-* ✨ Hover, focus and shake animations
-
-## 🛠️ Technologies Used
-
-* HTML5
-* CSS3
-* JavaScript
-* LocalStorage
-
-## 📂 Project Structure
-
-```text
+Project Structure:
 login-page/
 │
 ├── index.html
 ├── style.css
 └── script.js
-```
 
-## 🚀 How to Run
+How to Run:
+Clone or download this repository.
+Open the project folder.
+Open index.html in your browser.
+Test the login form and its different features.
 
-1. Download or clone this repository.
-2. Open `index.html` in your browser.
-3. Try the login form and test the different features.
+What I Learned:
 
-## 🎯 What I Learned
+While building this project, I learned how to create and validate forms using JavaScript, work with the DOM, use CSS variables for themes, make a page responsive, and store user preferences using LocalStorage.
 
-Through this project, I practiced form handling, JavaScript validation, DOM manipulation, CSS variables, responsive design, and LocalStorage.
+This project also helped me understand how HTML, CSS, and JavaScript work together to create an interactive frontend application.
 
-## 👩‍💻 Author
-
+Author:
 Ingela
+
+
+
